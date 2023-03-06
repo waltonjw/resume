@@ -6,12 +6,12 @@
 
 ## Professional Experience
 
-#### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
+#### Consultant, Enterprise Architecture - AtmosFX [12/2015 - 6/2018]
 
 - Led the conception, design, and implementation of a media distribution platform, administration tools, and mobile app.  [JavaScript, React, AWS S3, AWS EC2, AWS Aurora, AWS RDS, AWS CloudWatch, AWS API Gateway, AWS Lambda]
 - Designed and implemented full suite of continuous integration workflows and DevOps automations. [Gradle, Groovy, Gulp, Jenkins, Docker, AWS CloudFormation, AWS CloudWatch]
 
-#### Solution Architect, Slalom Consulting - [1/2015 - 9/2015]
+#### Solution Architect - Slalom Consulting [1/2015 - 9/2015]
 
 - Designed and implemented an ETL framework for streaming media analytics. [Hadoop, AWS Elastic Map/Reduce, SparkSQL]
 - Architected IoT platform for real-time network device event processing. [Kafka, Storm]
