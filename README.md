@@ -7,6 +7,13 @@
 
 ## Professional Experience
 
+#### Family Sabbatical,  [2018 - 2022]
+
+- Sabbatical to care for family members, now resolved.
+- Completed GIS coursework via UC Davis and The University of Illinois at Urbana-Champaign.  Research Projects:
+  - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot)
+  - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership)
+
 #### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
 
 - Led the conception, design, and implementation of a media distribution platform, administration tools, and mobile app.  [JavaScript, React, AWS S3, AWS EC2, AWS Aurora, AWS RDS, AWS CloudWatch, AWS API Gateway, AWS Lambda]
@@ -22,7 +29,7 @@
 
 - Authored suite of Hadoop workflows for production systems and back office operations. [Java, Hadoop, HDFS, Map/Reduce, Pig, HBase, Solr]
 
-- Architected a real-time event processing system to route, transform, and aggregate billions of telemetry events per day. [Java, Kafka, Storm]
+- Architected a real-time event processing system to route, transform, and aggregate billions of daily telemetry events. [Java, Kafka, Storm, SQLStream]
 - Created and delivered a Hadoop training curriculum for Intel Security Group employees. [Java, Hadoop, HDFS, Map/Reduce, Pig, HBase]
 - Developed the data architecture for the Global Threat Intelligence (GTI) product. [Hadoop, SQL Server, Neo4j, Kafka, MongoDB]
 - Lecturer, 400-level CS course, *Defense Against the Dark Arts*, California Polytechnic State University, Q2 2014, [Python, OWASP Tools]
@@ -56,16 +63,6 @@
 - Designed and implemented enterprise backup/restore and configuration management systems. [Veritas NetBackup, cfengine]
 - Designed and built relational databases and database client applications for back office URL categorization system. [Sybase ASE, SQL Server, Perl 5]
 - Managed daily operation of LAN, WAN, and 250 production servers. [Cisco Switches/Routers/Firewalls, Solaris 7, Debian/GNU Linux, CentOS Linux]
-
-#### Product Support Engineer - Cellular Technical Services [10/1996 - 1/1999]
-
-- Managed a 2000 node global RF fingerprinting network. [NetBSD, Perl 5, Bash, Netcool]
-- Administered 40 HP9000 UNIX enterprise servers in the areas of configuration management, database administration, performance tuning, disaster recovery, and HP-UX OS administration. [HP-UX, MC/ServiceGuard, Veritas NetBackup, Netcool]
-
-#### Wireless Account Representative - McCaw Cellular / AT&T Wireless Services [9/1993 - 3/1996]
-
-- Designed and delivered circuit-switched wireless data solutions for small business customers.
-- 1994 Circle of Excellence award, 1995 Account Representative of the Year award.
 
 ## Education
 
