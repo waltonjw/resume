@@ -7,19 +7,19 @@
 
 ## Professional Experience
 
-#### Family Sabbatical,  [2018 - 2022]
+#### Family Sabbatical [2018 - 2022]
 
 - Sabbatical to care for family members, now resolved.
 - Completed GIS coursework via UC Davis and The University of Illinois at Urbana-Champaign.  Research Projects:
-  - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot)
-  - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership)
+  - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot) [12/2022 - 1/2023]
+  - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership) [3/2021]
 
 #### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
 
 - Led the conception, design, and implementation of a media distribution platform, administration tools, and mobile app.  [JavaScript, React, AWS S3, AWS EC2, AWS Aurora, AWS RDS, AWS CloudWatch, AWS API Gateway, AWS Lambda]
 - Designed and implemented full suite of continuous integration workflows and DevOps automations. [Gradle, Groovy, Gulp, Jenkins, Docker, AWS CloudFormation, AWS CloudWatch]
 
-#### Solution Architect, Slalom Consulting - [1/2015 - 9/2015]
+#### Solution Architect - Slalom Consulting [1/2015 - 9/2015]
 
 - Designed and implemented an ETL framework for streaming media analytics. [Hadoop, AWS Elastic Map/Reduce, SparkSQL]
 - Architected IoT platform for real-time network device event processing. [Kafka, Storm]
