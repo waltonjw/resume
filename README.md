@@ -7,12 +7,13 @@
 
 ## Professional Experience
 
-#### Family Sabbatical [2018 - 2022]
+#### Family Sabbatical [2018 - 2023]
 
 - Sabbatical to care for family members, now resolved.
-- Completed GIS coursework via UC Davis and The University of Illinois at Urbana-Champaign.  Research Projects:
+- Completed remote GIS coursework via University of California, Davis and University of Illinois at Urbana-Champaign.  Research Projects:
   - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot) [12/2022 - 1/2023]
   - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership) [3/2021]
+- Completed remote Python 3 coursework via University of Michigan to maintain currency.
 
 #### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
 
