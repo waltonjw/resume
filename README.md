@@ -54,6 +54,9 @@
 
 ## Education
 *Geographic Information Systems (GIS) Specialization*, UC Davis, 2022, 5 Courses [Esri ArcMap, Esri ArcCatalog]
+
 *Getting Started with CyberGIS* , University of Illinois at Urbana-Champaign, 2023, 1 Course [Python 3, Hadoop]
+
 *Python 3 Programming Specialization*, University of Michigan, 2021, 5 Courses [Python 3, Jupyter Notebook]
+
 *Bachelor of Arts in Business Administration, Business Leadership Program; Minor in Mandarin Chinese*; University of Puget Sound, 1988-1992
