@@ -30,7 +30,7 @@
 - Developed the data architecture for the Global Threat Intelligence (GTI) product. [Hadoop, SQL Server, Neo4j, Kafka, MongoDB]
 - Lecturer, 400-level CS course, *Defense Against the Dark Arts*, California Polytechnic State University, Q2 2014, [Python, OWASP Tools]
 
-### Architect, Web Security - McAfee [11/2008 - 5/2013]
+### Architect, Web Security - Intel Security (formerly McAfee) [11/2008 - 5/2013]
 - Designed and implemented a URL classification system using the Drools 5 rule engine, allowing security analysts to control workflow and decision rules. [Java, Drools, jBPM, J2EE]
 - Architected and built a Hadoop-based web content and indexing system used by machine-based and human-based classification workflows. [Java, Hadoop, Solr]
 - Created a highly concurrent web crawling engine used for discovery and classification of web content. [Java, Hadoop, Solr]
