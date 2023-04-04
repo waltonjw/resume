@@ -1,9 +1,9 @@
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/waltonjw/resume/releases/latest/download/jon_walton_resume.pdf) &nbsp; [![](https://img.shields.io/badge/jon%20walton-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonww/) 
+[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/waltonjw/resume/releases/latest/download/jon_walton_resume.pdf)
 
 
 # Jon Walton
 
-[jon.w.walton@gmail.com](mailto:jon.w.walton@gmail.com) // Greater Seattle Area
+[jon.w.walton@gmail.com](mailto:jon.w.walton@gmail.com) - Greater Seattle Area
 
 ## Professional Experience
 
