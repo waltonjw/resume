@@ -7,7 +7,7 @@
 
 ## Professional Experience
 
-### Family Sabbatical [2018 - 2023]
+### Family Sabbatical [2018 - Present]
 - Completed remote GIS coursework via University of California, Davis and University of Illinois at Urbana-Champaign.  Research Projects:
   - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot) [1/2023]
   - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership) [3/2021]
