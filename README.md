@@ -7,11 +7,17 @@
 
 ## Professional Experience
 
-### Family Sabbatical [2018 - Present]
+### Board VP/GIS Consultant - Star Surveying [6/2024 - Present]
+
+* Guide corporate strategy in the areas of business process, IT, and marketing.
+* Advise company on GIS-centric initiatives and opportunities.
+
+### Family Sabbatical [6/2018 - 6/2024]
+
 - Completed remote GIS coursework via University of California, Davis and University of Illinois at Urbana-Champaign.  Research Projects:
   - [Washington State Wildfire Camera Pilot Program](https://waltonjw.github.io/wildfire-camera-pilot) [1/2023]
   - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership) [3/2021]
-- Completed remote Python 3 coursework via University of Michigan to maintain currency.
+- Completed Python 3 coursework via University of Michigan to maintain currency.
 
 ### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
 - Led the conception, design, and implementation of a media distribution platform, administration tools, and mobile app.  [JavaScript, React, AWS S3, AWS EC2, AWS Aurora, AWS RDS, AWS CloudWatch, AWS API Gateway, AWS Lambda]
