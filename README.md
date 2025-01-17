@@ -57,6 +57,14 @@
 - Designed and built relational databases and database client applications for back office URL categorization system. [Sybase ASE, SQL Server, Perl 5]
 - Managed daily operation of LAN, WAN, and 250 production servers. [Cisco Switches/Routers/Firewalls, Solaris 7, Debian/GNU Linux, CentOS Linux]
 
+### Product Support Engineer - Cellular Technical Services [10/1996 - 1/1999]
+- Managed a 2000 node global RF fingerprinting network. [NetBSD, Perl 5, Bash, Netcool]
+- Administered 40 HP9000 UNIX enterprise servers in the areas of configuration management, database administration, performance tuning, disaster recovery, and HP-UX OS administration. [HP-UX, MC/ServiceGuard, Veritas NetBackup, Netcool]
+
+### Wireless Account Representative - McCaw Cellular / AT&T Wireless Services [9/1993 - 3/1996]
+- Designed and delivered circuit-switched wireless data solutions for small business customers.
+- 1994 Circle of Excellence award, 1995 Account Representative of the Year award.
+
 ## Education
 *Geographic Information Systems (GIS) Specialization*, UC Davis, 2022, 5 Courses [Esri ArcMap, Esri ArcCatalog]
 
