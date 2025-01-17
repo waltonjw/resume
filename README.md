@@ -33,7 +33,7 @@
 - Architected a real-time event processing system to route, transform, and aggregate billions of daily telemetry events. [Java, Kafka, Storm, SQLStream]
 - Created and delivered a Hadoop training curriculum for Intel Security Group employees. [Java, Hadoop, HDFS, Map/Reduce, Pig, HBase]
 - Developed the data architecture for the Global Threat Intelligence (GTI) product. [Hadoop, SQL Server, Neo4j, Kafka, MongoDB]
-- Lecturer, 400-level CS course, *Defense Against the Dark Arts*, California Polytechnic State University, Q2 2014, [Python, OWASP Tools]
+- Lecturer, 400-level CS course, *Defense Against the Dark Arts*, California Polytechnic State University, Q2 2014, [Python 3, OWASP Tools]
 
 ### Architect, Web Security - Intel Security (formerly McAfee) [11/2008 - 5/2013]
 - Designed and implemented a URL classification system using the Drools 5 rule engine, allowing security analysts to control workflow and decision rules. [Java, Drools, jBPM, J2EE]
