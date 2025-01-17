@@ -7,7 +7,7 @@
 
 ## Professional Experience
 
-### Board VP/GIS Consultant - Star Surveying [6/2024 - Present]
+### Board VP/GIS Consultant (Volunteer Position) - Star Surveying [6/2024 - Present]
 
 * Guide corporate strategy in the areas of business process, IT, and marketing.
 * Advise company on GIS-centric initiatives and opportunities.
@@ -19,7 +19,7 @@
   - [Carlton Complex Wildfire Ownership Analysis](https://waltonjw.github.io/carlton-fire-ownership) [3/2021]
 - Completed Python 3 coursework via University of Michigan to maintain currency.
 
-### Consultant, Enterprise Architecture - AtmosFX  [12/2015 - 6/2018]
+### Consultant, Enterprise Architecture - AtmosFX [12/2015 - 6/2018]
 - Led the conception, design, and implementation of a media distribution platform, administration tools, and mobile app.  [JavaScript, React, AWS S3, AWS EC2, AWS Aurora, AWS RDS, AWS CloudWatch, AWS API Gateway, AWS Lambda]
 - Designed and implemented full suite of continuous integration workflows and DevOps automations. [Gradle, Groovy, Gulp, Jenkins, Docker, AWS CloudFormation, AWS CloudWatch]
 
